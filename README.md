@@ -6,7 +6,6 @@ Here is what it looks like
 
 ![Loading Screen](https://github.com/mueedurrehman/Mark-1-Grade-Tracking-Application/blob/master/Images/Intro.JPG)
 
-
 ![Welcome Screen](https://github.com/mueedurrehman/Mark-1-Grade-Tracking-Application/blob/master/Images/Welcome%20Screen.png)
 
 ![Instructions](https://github.com/mueedurrehman/Mark-1-Grade-Tracking-Application/blob/master/Images/Instructions.JPG)
